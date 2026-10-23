@@ -1,0 +1,10 @@
+[2026-10-23 07:03:33] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: MOTOR_PLAN_RIGHT | Applied Matrix: Troxler Fading / Lilac Chaser (Temporal) | Metrics: X=-0.62, Y=0.39, Z=-1.03
+[2026-10-23 07:03:40] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: IDLE_STATE | Applied Matrix: Cornsweet / Adelson Shadow (Contrast) | Metrics: X=0.09, Y=-0.01, Z=0.05
+[2026-10-23 07:03:48] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: MOTOR_PLAN_RIGHT | Applied Matrix: Penrose Triangle / Mario Staircase (Spatial) | Metrics: X=1.05, Y=0.28, Z=0.62
+[2026-10-23 07:03:56] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: IDLE_STATE | Applied Matrix: Penrose Triangle / Mario Staircase (Spatial) | Metrics: X=0.03, Y=-0.11, Z=-0.05
+[2026-10-23 07:04:05] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: MOTOR_PLAN_LEFT | Applied Matrix: Troxler Fading / Lilac Chaser (Temporal) | Metrics: X=0.68, Y=-0.36, Z=1.22
+[2026-10-23 07:04:13] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: MOTOR_PLAN_RIGHT | Applied Matrix: Troxler Fading / Lilac Chaser (Temporal) | Metrics: X=-0.59, Y=0.42, Z=-1.04
+[2026-10-23 07:04:20] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: IDLE_STATE | Applied Matrix: Troxler Fading / Lilac Chaser (Temporal) | Metrics: X=0.05, Y=-0.05, Z=-0.00
+[2026-10-23 07:04:28] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: MOTOR_PLAN_RIGHT | Applied Matrix: Troxler Fading / Lilac Chaser (Temporal) | Metrics: X=-0.62, Y=0.40, Z=-1.02
+[2026-10-23 07:04:36] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: MOTOR_PLAN_RIGHT | Applied Matrix: Kanizsa Triangle / Rubin Vase (Contour) | Metrics: X=-1.12, Y=-0.02, Z=-2.12
+[2026-10-23 07:04:44] TRAP DEPLOYED | True State: RESTRICTED_MEMORY | Decoy: IDLE_STATE | Applied Matrix: Kanizsa Triangle / Rubin Vase (Contour) | Metrics: X=0.05, Y=-0.05, Z=-0.05
